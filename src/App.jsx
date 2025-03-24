@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="font-sans bg-gray-100 text-gray-800">
       {/* Hero Section */}
-      <section className="bg-cover bg-center h-96 text-white flex items-center justify-center" style={{ backgroundImage: 'url(src/assets/485896341_122162071940327815_577358676250575738_n.jpg)' }}>
+      <section className="bg-cover bg-center h-96 text-white flex items-center justify-center" style={{ backgroundImage: 'url(src/assets/bg.jpg)' }}>
         <div className="text-center p-6">
           <h1 className="text-4xl md:text-6xl font-bold">Protect Walbottle Greenspace</h1>
           <p className="mt-4 text-lg">Help us preserve our natural beauty from industrial solar developments.</p>
