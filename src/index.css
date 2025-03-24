@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-light: #e3f2fd; /* Light Blue */
+  --color-primary: #2196f3; /* Primary Blue */
+  --color-primary-dark: #0b79d0; /* Dark Blue */
+  --color-secondary: #ffffff; /* White */
+}
+body {
+  background: linear-gradient(135deg, #1e3a8a, #3b82f6);
+  color: #111827;
+  font-family: "Roboto", sans-serif;
+}
