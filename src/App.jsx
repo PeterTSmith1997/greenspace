@@ -37,8 +37,6 @@ function App() {
           <p>&copy; 2025 Walbottle Greenspace. All rights reserved.</p>
           <div className="mt-4">
             <a href="https://facebook.com" className="text-white mx-4">Facebook</a>
-            <a href="https://instagram.com" className="text-white mx-4">Instagram</a>
-            <a href="https://twitter.com" className="text-white mx-4">Twitter</a>
           </div>
         </div>
       </footer>
